@@ -21,7 +21,7 @@
   --highlight-background-color: #ccc;
   --text-color: #202020;
   --text-color-light: #ebebeb;
-  --heading-highlight-color: #ffea00;
+  --heading-highlight-color: var(--color-red);
   --overlay-text-color: var(--text-color);
   --highlight-text-color: var(--text-color);
 
